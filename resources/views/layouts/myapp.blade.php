@@ -261,7 +261,7 @@
                         <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown"
                             class="text-black bg-pr-400 hover:bg-pr-600 font-medium rounded-lg text-sm px-3 py-2.5 text-center inline-flex items-center "
                             type="button">
-                            <img loading="lazy" src="/images/user.png" width="24" alt="user icon" class="mr-3">
+                            <img loading="lazy" src="{{ Auth::user()->avatar }}" width="24" height="24" alt="{{ Auth::user()->name }}" class="mr-3 rounded-full object-cover">
                             {{ Auth::user()->name }}
                             <svg class="w-4 h-4 ml-2" aria-hidden="true" fill="none" stroke="currentColor"
                                 viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

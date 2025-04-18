@@ -16,7 +16,7 @@
                             Name</label>
                         <input type="email" id="email"
                             class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                            placeholder="Group 5" required>
+                            placeholder="first name" required>
                     </div>
 
                     <div class="w-full ">
@@ -24,7 +24,7 @@
                             Name</label>
                         <input type="email" id="email"
                             class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-                            placeholder="Group 5" required>
+                            placeholder="last name" required>
                     </div>
                 </div>
                 <div class="flex justify-between">
@@ -84,7 +84,7 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Company information:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">Group 5 . Car management system</p>
+                <p class="text-sm font-light text-gray-700 font-car">Group U . Car management system</p>
                 <p class="text-sm font-light text-gray-700 font-car">Location: Uganda</p>
             </div>
             <div>
@@ -101,7 +101,7 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Address:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">Group 5 </p>
+                <p class="text-sm font-light text-gray-700 font-car">Group U </p>
                 <p class="text-sm font-light text-gray-700 font-car">Zip Code/Postal code:COCIS</p>
             </div>
             <div>
@@ -121,7 +121,7 @@
                 <p class="text-sm font-light text-gray-700 font-car">Call us to speak to a member of our team. We are always
                     happy to help.
                 </p>
-                <p class="font-car text-pr-400 ">+256600000000</p>
+                <p class="font-car text-pr-400 ">+256784808990</p>
             </div>
             <hr class="my-6  sm:mx-auto border-gray-700 lg:my-8 md:hidden" />
 
