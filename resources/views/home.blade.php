@@ -10,13 +10,13 @@
                 <div class="flex  flex-col justify-center md:w-3/5  mx-12 md:ms-20 md:mx-0">
                     <h1 class=" md:text-start text-center  font-car font-bold text-gray-900 mb-8  md:text-7xl text-4xl "><span class="text-pr-400"> EASY
                         </span>AND
-                        FAST WAY TO RENT YOUR CAR</h1>
+                        FAST WAY TO HIRE YOUR CAR</h1>
                     <div class="md:w-3/5 md:hidden  ">
                         <img loading="lazy" src="/images/home car.png" alt="home car">
                     </div>
                     <p class="text-justify md:mx-0 mx-8 ">Whether you're planning a weekend
                         getaway or a cross-country adventure, we've got you covered. With our wide selection of vehicles and
-                        convenient booking system, renting a car has never been this effortless.</p>
+                        convenient booking system, hiring a car has never been this effortless.</p>
                     <div class="flex justify-center md:justify-start mt-12 md:w-2/3 me-12 md:-ms-12">
                         <a href="/cars">
                             <button
@@ -154,7 +154,7 @@
                 </div>
                 <div class="mt-7 mb-16">
                     <p class="md:text-center text-xl text-justify mx-8 ">We
-                        prioritize your satisfaction and strive to make your car rental experience as seamless as possible.
+                        prioritize your satisfaction and strive to make your car hiring experience as seamless as possible.
                         With our wide selection of well-maintained vehicles, competitive prices, and simple booking process,
                         you can trust us to meet your needs. Our dedicated customer service team is available around the
                         clock to assist you, ensuring that you receive the support you deserve. Whether you need a car for a

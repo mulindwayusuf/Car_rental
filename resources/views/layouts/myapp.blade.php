@@ -387,9 +387,9 @@
                 <hr class="my-6  sm:mx-auto border-gray-700 lg:my-8" />
 
                 <div class="sm:flex sm:items-center sm:justify-between md:ms-0 pb-4  ms-32">
-                    <span class="text-sm sm:text-center text-gray-400 md:ms-0 -ms-8">© 2024 <a
+                    <span class="text-sm sm:text-center text-gray-400 md:ms-0 -ms-8">© 2025 <a
                             href="#" target='_blank'
-                            class="hover:underline">Group 5</a>. All Rights Reserved.
+                            class="hover:underline">Group U</a>. All Rights Reserved.
                     </span>
                     <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                         <a href="#" target='_blank'

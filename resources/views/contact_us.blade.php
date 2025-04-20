@@ -84,8 +84,8 @@
                     </svg>
                 </div>
                 <h2 class="text-lg font-bold text-gray-800 font-car">Company information:</h2>
-                <p class="text-sm font-light text-gray-700 font-car">Group U . Car management system</p>
-                <p class="text-sm font-light text-gray-700 font-car">Location: Uganda</p>
+                <p class="text-sm font-light text-gray-700 font-car">Group U . Vehicle Hire System</p>
+                <p class="text-sm font-light text-gray-700 font-car">Location: Uganda-Kampala-Makerere</p>
             </div>
             <div>
                 <div class="w-20 p-6 mx-auto mb-3 bg-gray-200 rounded-md ">
@@ -121,7 +121,7 @@
                 <p class="text-sm font-light text-gray-700 font-car">Call us to speak to a member of our team. We are always
                     happy to help.
                 </p>
-                <p class="font-car text-pr-400 ">+256784808990</p>
+                <p class="font-car text-pr-400 ">+256784808990/+256704926195</p>
             </div>
             <hr class="my-6  sm:mx-auto border-gray-700 lg:my-8 md:hidden" />
 
